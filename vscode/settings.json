@@ -10,17 +10,12 @@
     "editor.renderWhitespace": "all",
     "editor.renderControlCharacters": false,
     "editor.tabSize": 2,
-    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
     "workbench.colorTheme": "Dracula",
     "workbench.editor.wrapTabs": true,
     "workbench.sideBar.location": "right",
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
     "window.title": "${dirty} ${activeEditorShort}${separator}$VISUAL STUDIO CODE${separator}${rootName} ${dirty}",
     "window.titleSeparator": " 💎💎 ",
     "git.autofetch": true,
-    "typescript.updateImportsOnFileMove.enabled": "always",
-    "liveServer.settings.ignoreFiles": [
-        ".vscode/**",
-        "src/**"
-    ],
-    "liveServer.settings.NoBrowser": true
+    "typescript.updateImportsOnFileMove.enabled": "always"
 }
