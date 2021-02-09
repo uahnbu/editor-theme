@@ -5,6 +5,7 @@
     "editor.fontLigatures": true,
     "editor.fontSize": 14,
     "editor.fontWeight": "500",
+    "editor.minimap.enabled": false,
     "editor.minimap.side": "left",
     "editor.multiCursorModifier": "ctrlCmd",
     "editor.renderWhitespace": "all",
