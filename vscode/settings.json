@@ -1,0 +1,26 @@
+{
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 14,
+    "editor.fontWeight": "500",
+    "editor.minimap.side": "left",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.renderWhitespace": "all",
+    "editor.renderControlCharacters": false,
+    "editor.tabSize": 2,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "workbench.colorTheme": "Dracula",
+    "workbench.editor.wrapTabs": true,
+    "workbench.sideBar.location": "right",
+    "window.title": "${dirty} ${activeEditorShort}${separator}$VISUAL STUDIO CODE${separator}${rootName} ${dirty}",
+    "window.titleSeparator": " 💎💎 ",
+    "git.autofetch": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "liveServer.settings.ignoreFiles": [
+        ".vscode/**",
+        "src/**"
+    ],
+    "liveServer.settings.NoBrowser": true
+}
